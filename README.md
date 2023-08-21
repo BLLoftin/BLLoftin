@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BLLoftin
-- 👀 I’m interested in wildfires and their effects on old growth bird speceis
+- 👀 I’m interested in habitat suitability and climate models
 - 🌱 I’m currently working on my PhD at Boise State University
 - 📫 How to reach me: brittaneiloftin@gmail.com
 
